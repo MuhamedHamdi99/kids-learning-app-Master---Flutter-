@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349081252442",
+    "project_id": "learing-guide",
+    "storage_bucket": "learing-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349081252442:android:c8195fe34a655510a85e63",
+        "android_client_info": {
+          "package_name": "com.example.kids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349081252442-i4legp4hgslgnimuee3hhor8fiij43ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjI-AKjFsKagR615LJEDjIOp_tQUemVtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349081252442-i4legp4hgslgnimuee3hhor8fiij43ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
